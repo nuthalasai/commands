@@ -1,3 +1,7 @@
 this is for file 4
+<<<<<<< HEAD
 bc
 
+=======
+abcd
+>>>>>>> 160ad17546e53c8fb7dfab07a483f2d62f4d02d4
